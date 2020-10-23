@@ -1,0 +1,10 @@
+divideFieldsReport->organizarEventums
+Hacer que en el contenedor solo aparezca una línea de Eventum con todos los datos
+REcorrer el de individuales e añadir lo necesario del general (borrar del general la línea actualizada ¿?)
+
+@Override
+public String toString() {
+ return "Employee [employeeNumber=" + employeeNumber + ", salary=" + salary
+ + ", taxpayerIdentificationNumber=" + taxpayerIdentificationNumber
+ + "]";
+}

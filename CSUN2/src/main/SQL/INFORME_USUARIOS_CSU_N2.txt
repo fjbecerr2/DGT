@@ -1,0 +1,201 @@
+INFORME USUARIOS CSU-N2
+-----------------------
+>>DISEÑO
+--------
+- TITULO
+- FECHA (FILTRO)
+- OPERADOR (FILTRO) (ORDER BY)
+	Mario Losada Tardajos Semanalmente Reporte 2020-09-28 00:00:00 - 2020-10-04 23:59:59
+	
+	Los técnicos de CSU N2 son: (BUSCAR EN LA BBDD)
+
+    Jesus Galende Calzada
+    Daniel Criado Redondo
+    Alberto José Lorido Ramirez
+    Edison Javier Yanez Quinatoa
+    Edinson López Saldarriaga
+    Mark Alan Culley Garcia 
+    Rubén Diez Romero
+    Sergio Morón Romero
+
+- EVENTUMS
+	Eventum casos trabajados:
+
+	[NUM_EVENTUM] [RESUMEN]
+	99472 Petición acceso a Wifi  
+	102033 Sin acceso a URL https://pr-aplnocert-internet.dgt.es/crcWeb7/jnlp/crcCliente.jnlp  
+	102037 CORREO LENTO  
+	102047 Planificación reenvío de Newsletter revista DGT día 6 de octubre  
+	102076 TELEFONO DE OPERACIONES N1 - PROBLEMAS  
+	102113 [SADD] Conectividad FTP SEDE 
+	
+- ESTADÍSTICA (POR TÉCNICO) (¿EN EXCEL?)
+- ESTADÍSTICA TOTAL (SQL)
+
+Nuevos Casos Asignados:  0
+
+Abierta:              2
+Proceso:              1
+Cerrada:              4
+Intervención Planificada:1
+Total de Casos:         6
+
+
+Eventum Emails:       1
+Otros Emails:         0
+Total de Llamadas Telefónicas:    0
+Total de Notas:          2
+
+Tiempo Invertido en Teléfono:     00h 00m
+Tiempo Invertido en Email:     00h 00m
+Tiempo de Empleado de Conexión:     00h 00m
+
+Tiempo Total Invertido:     05m	
+
+- EMAIL
+
+Y el destinatario del excel deberían, en principio, ser Daniel Criado, David Sánchez Rodero y Ruben Diez.
+
+Y el informe se necesitaría el día 1 del mes.
+
+
+
+:OPERATIVA
+----------
+:CONSULTA_OPERADORES_CSU_N2
+
+:GRUPOS_OPERACIONES_N1	<OK>
+		
+	>>SELECT DISTINCT UG.ugr_grp_id, GR.grp_name
+	FROM  user_group UG 
+	INNER JOIN `group` GR ON (UG.ugr_grp_id = GR.grp_id)
+	GROUP BY UG.ugr_usr_id
+	ORDER BY GR.grp_name;
+	
+:OPERADORES_CSU_N2	<OK>
+	< 41 CSU N2 >
+	
+	>> SELECT U.usr_id, U.usr_status, U.usr_full_name, U.usr_email
+		, UG.ugr_grp_id, GR.grp_name
+		FROM  user U
+		INNER JOIN user_group UG ON (U.usr_id = UG.ugr_usr_id)
+		INNER JOIN `group` GR ON (UG.ugr_grp_id = GR.grp_id)
+		WHERE UG.ugr_grp_id =41
+	
+	>> SELECT U.usr_id, U.usr_status, U.usr_full_name, U.usr_email
+		, UG.ugr_grp_id, GR.grp_name
+		FROM  user U
+		INNER JOIN user_group UG ON (U.usr_id = UG.ugr_usr_id)
+		INNER JOIN `group` GR ON (UG.ugr_grp_id = GR.grp_id)
+		WHERE GR.grp_id = 41 -- FILTRO GRUPO CSU N2
+		-- WHERE GR.grp_name LIKE'%CSU N2%' -- FILTRO GRUPO
+		-- WHERE UG.ugr_usr_id IN () -- FILTRO ID USR
+		AND U.usr_status = 'active'
+		-- AND U.usr_status <> 'active'  -- USUARIOS ACTIVOS
+		ORDER BY U.usr_full_name;
+		
+	
+	USUARIO
+	------
+	243 Sergio Moron Romero
+	
+	GRUPOS
+	------
+	242 41 2020-02-24 09:00:00
+	245 41 2020-02-24 09:00:0
+
+:EVENTUM_CSU_N2_TOTALES <OK>
+	>>SELECT COUNT(iss_id), iss_created_date 
+	FROM issue
+	WHERE iss_usr_id IN (239, 240, 243, 245, 256, 272, 298, 333) -- CSU_N2 
+	AND iss_created_date BETWEEN DATE('2020-09-28') AND DATE('2020-09-30') 
+	GROUP BY SUBSTRING(iss_created_date, 6, 2) -- MES
+	
+	>>SELECT COUNT(iss_id), iss_created_date 
+	FROM issue
+	WHERE iss_grp_id = 41 -- CSU_N2 
+	AND iss_created_date BETWEEN DATE('2020-09-28') AND DATE('2020-09-30') 
+	GROUP BY SUBSTRING(iss_created_date, 6, 2) -- MES
+	
+:EVENTUM_CSY_N2_OPERADORES <OK>
+
+	[NUM_EVENTUM] [RESUMEN]
+	
+	>> SELECT  U.usr_id
+		, U.usr_full_name
+		, I.iss_id, I.iss_summary 
+		, ST.sta_title
+		FROM issue I
+		INNER JOIN user U ON (I.iss_usr_id = U.usr_id)
+		INNER JOIN status ST ON (I.iss_sta_id = ST.sta_id)
+		WHERE iss_usr_id IN (239, 240, 243, 245, 256, 272, 298, 333) -- CSU_N2 
+		AND I.iss_created_date BETWEEN DATE('2020-09-28') AND DATE('2020-09-30') 
+		ORDER BY U.usr_full_name, I.iss_id
+		-- ST.sta_title 
+
+
+:EVENTUMS_OPERADOR_CSU_N2_ESTADOS <OK>
+
+	>> SELECT  U.usr_full_name
+		, COUNT(ST.sta_title)
+		FROM issue I
+		INNER JOIN user U ON (I.iss_usr_id = U.usr_id)
+		INNER JOIN status ST ON (I.iss_sta_id = ST.sta_id)
+		WHERE iss_usr_id IN (239, 240, 243, 245, 256, 272, 298, 333) -- CSU_N2 
+		AND I.iss_created_date BETWEEN DATE('2020-09-28') AND DATE('2020-09-30') 
+		GROUP BY U.usr_full_name
+		ORDER BY U.usr_full_name
+
+
+	>> SELECT  U.usr_id
+		, U.usr_full_name
+		, ST.sta_title
+		, COUNT(ST.sta_title)
+		FROM issue I
+		INNER JOIN user U ON (I.iss_usr_id = U.usr_id)
+		INNER JOIN status ST ON (I.iss_sta_id = ST.sta_id)
+		WHERE iss_usr_id IN (239, 240, 243, 245, 256, 272, 298, 333) -- CSU_N2 
+		AND I.iss_created_date BETWEEN DATE('2020-09-28') AND DATE('2020-09-30') 
+		GROUP BY U.usr_id, ST.sta_title
+		ORDER BY U.usr_full_name
+
+
+:EJEMPLO_LISTADO_EXTRAIDO_EVENTUM
+Mario Losada Tardajos Semanalmente Reporte 2020-09-28 00:00:00 - 2020-10-04 23:59:59
+
+Eventum casos trabajados:
+
+99472 Petición acceso a Wifi  
+102033 Sin acceso a URL https://pr-aplnocert-internet.dgt.es/crcWeb7/jnlp/crcCliente.jnlp  
+102037 CORREO LENTO  
+102047 Planificación reenvío de Newsletter revista DGT día 6 de octubre  
+102076 TELEFONO DE OPERACIONES N1 - PROBLEMAS  
+102113 [SADD] Conectividad FTP SEDE  
+
+
+
+
+Nuevos Casos Asignados:  0
+
+Abierta:              2
+Proceso:              1
+Cerrada:              4
+Intervención Planificada:1
+Total de Casos:         6
+
+
+Eventum Emails:       1
+Otros Emails:         0
+Total de Llamadas Telefónicas:    0
+Total de Notas:          2
+
+Tiempo Invertido en Teléfono:     00h 00m
+Tiempo Invertido en Email:     00h 00m
+Tiempo de Empleado de Conexión:     00h 00m
+
+Tiempo Total Invertido:     05m
+
+
+-->> PREGUNTAS REUNIÓN CSU LUNES
+- Discrepancia usuarios asignados y los encontrados
+- 

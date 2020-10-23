@@ -1,0 +1,386 @@
+<FECHA>
+2020-09-21;2020-09-27
+<EVENTUM>
+239;Jesus Galende Calzada;101339;[98944] [Plan de actuación] Datos Pendientes Trans...;CSU N2;INFORMADOR;0;Cerrada
+239;Jesus Galende Calzada;101443;[98967][Informe de situación y alternativas] Alter...;CSU N2;INFORMADOR;0;Cerrada
+239;Jesus Galende Calzada;101697;[98944] [Plan de actuación] Fase 3 - Eliminar carp...;CSU N2;INFORMADOR;0;Cerrada
+239;Jesus Galende Calzada;101699;[98944] Plan de actuación: Fase 4 - Recrear carpet...;CSU N2;INFORMADOR;0;Proceso
+240;Alberto Lorido Ramirez;100958;Alerta Warning PRTG Espacio en servidor vmOSXG.dgt...;CSU N2;INFORMADOR;0;Cerrada
+240;Alberto Lorido Ramirez;101001;Caída de conectividad con DGT19EXGUA (192.168.204....;Redes de Comunicaciones;INFORMADOR;0;Cerrada
+240;Alberto Lorido Ramirez;101068;Gestión alertas PRTG y Buzón N2;CSU N2;INFORMADOR;0;Proceso
+240;Alberto Lorido Ramirez;101146;Sin conectividad con DGT94ALC11 (10.50.94.132) [RM...;Redes de Comunicaciones;INFORMADOR;0;Cerrada
+240;Alberto Lorido Ramirez;101354;Pérdida de Comunicaciones en JPT Granada;Redes de Comunicaciones;INFORMADOR;0;Cerrada
+240;Alberto Lorido Ramirez;101426;The interface is disconnected - JPT VIGO;Redes de Comunicaciones;INFORMADOR;0;Cerrada
+240;Alberto Lorido Ramirez;101535;Pérdida de Comunicaciones en JPT Huelva;CSU N2;INFORMADOR;0;Proceso
+240;Alberto Lorido Ramirez;101542;Alerta de 95% espacio ocupado - Carpeta Informatic...;CSU N2;INFORMADOR;0;Cerrada
+243;Sergio Moron Romero;101170;[Vulnerabilidad Zerologon] Análisis, piloto e inst...;CSU N2;INFORMADOR;0;Proceso
+243;Sergio Moron Romero;101387;Apoyo N0;CSU N2;INFORMADOR;0;Cerrada
+243;Sergio Moron Romero;101676;Modificación configuración Jefatura Local de Ceuta;CSU N2;INFORMADOR;0;En espera
+243;Sergio Moron Romero;101680;Modificación configuración Jefatura Provincial de ...;CSU N2;INFORMADOR;0;Cerrada
+243;Sergio Moron Romero;101684;Modificación configuración Jefatura Provincial de ...;CSU N2;INFORMADOR;0;Cerrada
+243;Sergio Moron Romero;101686;Modificación configuración Jefatura Provincial de ...;CSU N2;INFORMADOR;0;Cerrada
+243;Sergio Moron Romero;101688;Modificación configuración Jefatura Provincial de ...;CSU N2;INFORMADOR;0;Cerrada
+245;Ruben Diez Romero;101039;[84878][Vulnerabilidades CCN-CERT] Vulnerabilidad ...;CSU N2;INFORMADOR;0;En espera
+245;Ruben Diez Romero;101079;Consulta puertos abiertos entre Servidores;Seguridad Perimetral;INFORMADOR;0;Cerrada
+245;Ruben Diez Romero;101325;Puesta en marcha carpeta "Gratificaciones" DGTDFS0...;Operaciones SSOO;INFORMADOR;0;Cerrada
+245;Ruben Diez Romero;101349;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;INFORMADOR;0;Proceso
+245;Ruben Diez Romero;101350;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;INFORMADOR;0;Intervención Planificada
+245;Ruben Diez Romero;101351;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;INFORMADOR;0;Proceso
+245;Ruben Diez Romero;101395;Backup "Recopilación de permisos de carpetas DFS";Operaciones SSOO;INFORMADOR;0;Cerrada
+245;Ruben Diez Romero;101577;Reoraganización pertenencias WSUS y CENTAURO;CSU N2;INFORMADOR;0;Proceso
+256;Edison Javier Yanez Quinatoa;101126;[100114] Crear paquete BMC BarCode;CSU N2;INFORMADOR;0;Proceso
+272;Daniel Criado Redondo;101305;[100114] Crear manual BarCode;CSU N2;INFORMADOR;0;Cerrada
+272;Daniel Criado Redondo;101573;[100999]Cambio de dhcp en las aulas de examenes co...;CSU N2;INFORMADOR;0;Proceso
+272;Daniel Criado Redondo;101574;[100999]Cambiar configuracion del pc mediante un s...;CSU N2;INFORMADOR;0;En espera
+298;Edinson Lopez Saldarriaga;101065;error adobe listados de cierre de caja en indi7;CSU N2;INFORMADOR;0;Cerrada
+298;Edinson Lopez Saldarriaga;101124;Alerta Quota 95% disco datos servidor Vizcaya;CSU N2;INFORMADOR;0;Cerrada
+298;Edinson Lopez Saldarriaga;101139;Gestión alertas PRTG y Buzón N2;CSU N2;INFORMADOR;0;En espera
+240;José Emilio González González;100975;SO_FILESYSTEM_DISCO_E_REAL;CSU N2;ASIGNACION;0;Cerrada
+245;Juan Ramón Castaños Villacieros;101314;Asignacion de nuevo ambito para OLT y pruebas de f...;CSU N2;ASIGNACION;0;Proceso
+240;José Luis González Cuenca;101107;SO_FILESYSTEM_DISCO_E_REAL;CSU N2;ASIGNACION;0;Cerrada
+240;Jesus Galende Calzada;101339;[98944] [Plan de actuación] Datos Pendientes Trans...;CSU N2;ASIGNACION;0;Cerrada
+240;Jesus Galende Calzada;101443;[98967][Informe de situación y alternativas] Alter...;CSU N2;ASIGNACION;0;Cerrada
+240;Jesus Galende Calzada;101697;[98944] [Plan de actuación] Fase 3 - Eliminar carp...;CSU N2;ASIGNACION;0;Cerrada
+240;Jesus Galende Calzada;101699;[98944] Plan de actuación: Fase 4 - Recrear carpet...;CSU N2;ASIGNACION;0;Proceso
+240;Alberto Lorido Ramirez;100958;Alerta Warning PRTG Espacio en servidor vmOSXG.dgt...;CSU N2;ASIGNACION;0;Cerrada
+240;Alberto Lorido Ramirez;101068;Gestión alertas PRTG y Buzón N2;CSU N2;ASIGNACION;0;Proceso
+240;Alberto Lorido Ramirez;101542;Alerta de 95% espacio ocupado - Carpeta Informatic...;CSU N2;ASIGNACION;0;Cerrada
+243;Sergio Moron Romero;101170;[Vulnerabilidad Zerologon] Análisis, piloto e inst...;CSU N2;ASIGNACION;0;Proceso
+243;Sergio Moron Romero;101387;Apoyo N0;CSU N2;ASIGNACION;0;Cerrada
+243;Sergio Moron Romero;101676;Modificación configuración Jefatura Local de Ceuta;CSU N2;ASIGNACION;0;En espera
+243;Sergio Moron Romero;101680;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACION;0;Cerrada
+243;Sergio Moron Romero;101684;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACION;0;Cerrada
+243;Sergio Moron Romero;101686;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACION;0;Cerrada
+243;Sergio Moron Romero;101688;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACION;0;Cerrada
+245;Ruben Diez Romero;101039;[84878][Vulnerabilidades CCN-CERT] Vulnerabilidad ...;CSU N2;ASIGNACION;0;En espera
+256;Ruben Diez Romero;101349;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;ASIGNACION;0;Proceso
+256;Ruben Diez Romero;101350;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;ASIGNACION;0;Intervención Planificada
+256;Ruben Diez Romero;101351;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;ASIGNACION;0;Proceso
+245;Ruben Diez Romero;101577;Reoraganización pertenencias WSUS y CENTAURO;CSU N2;ASIGNACION;0;Proceso
+298;Jose Manuel Perez Castilla;101274;CAMBIAR IP ASOCIADA EN EQUIPO S200922_000075;CSU N2;ASIGNACION;0;Cerrada
+298;Jose Manuel Perez Castilla;101520;ACCESO DIRECTORIO CALIDAD S200922_000078;CSU N2;ASIGNACION;0;Cerrada
+256;Alejandro Perez Muñoz;101016;I200921_000142 Colas de Impresion;CSU N2;ASIGNACION;0;Cerrada
+298;Alejandro Perez Muñoz;101059;S200921_000070 Capacidad V-DATOS;CSU N2;ASIGNACION;0;Cerrada
+298;Alejandro Perez Muñoz;101460;I200922_000177 Reserva IP equipo;CSU N2;ASIGNACION;0;Cerrada
+298;Alejandro Perez Muñoz;101584;I200923_000289  Impresora RED;CSU N2;ASIGNACION;0;Cerrada
+298;Alejandro Perez Muñoz;101586;I200923_000286    Impresora RED;CSU N2;ASIGNACION;0;Cerrada
+298;Alberto Casillas Navo;101289;S200922_000083 IP en TLP;CSU N2;ASIGNACION;0;Cerrada
+298;Alberto Casillas Navo;101582;S200924_000011 VPN;CSU N2;ASIGNACION;0;Cerrada
+298;Alberto Casillas Navo;101728;I200925_000001 Accura;CSU N2;ASIGNACION;0;Cerrada
+298;Juan Heriberto Reyes Martinez;101007;S200921_000031 - Acceso a unidad de red;CSU N2;ASIGNACION;0;Cerrada
+298;Juan Heriberto Reyes Martinez;101247;I200916_000196 windows activacion;CSU N2;ASIGNACION;0;Cerrada
+298;Juan Heriberto Reyes Martinez;101414;I200916_000154 - Acceso a seridor SGAVE;CSU N2;ASIGNACION;0;Cerrada
+298;Juan Heriberto Reyes Martinez;101627;I200923_000265 - Error Inditraf;CSU N2;ASIGNACION;0;Cerrada
+298;Pablo Rodriguez Santamaria;101104;I200921_000064 perfiles;CSU N2;ASIGNACION;0;Cerrada
+298;Pablo Rodriguez Santamaria;101606;I200924_000283 espacio unidad red VVIP;CSU N2;ASIGNACION;0;Cerrada
+256;Edison Javier Yanez Quinatoa;101126;[100114] Crear paquete BMC BarCode;CSU N2;ASIGNACION;0;Proceso
+256;Daniel Criado Redondo;101573;[100999]Cambio de dhcp en las aulas de examenes co...;CSU N2;ASIGNACION;0;Proceso
+256;Daniel Criado Redondo;101574;[100999]Cambiar configuracion del pc mediante un s...;CSU N2;ASIGNACION;0;En espera
+298;Liliana Urbina Serrano;101789;S200925_000085 -  BAJA DE ONSITE´s SUSTITUTOS;CSU N2;ASIGNACION;0;Cerrada
+298;Edinson Lopez Saldarriaga;101065;error adobe listados de cierre de caja en indi7;CSU N2;ASIGNACION;0;Cerrada
+298;Edinson Lopez Saldarriaga;101124;Alerta Quota 95% disco datos servidor Vizcaya;CSU N2;ASIGNACION;0;Cerrada
+298;Edinson Lopez Saldarriaga;101139;Gestión alertas PRTG y Buzón N2;CSU N2;ASIGNACION;0;En espera
+298;Almudena Martín Cordero;101063;S200921_000071 Alta Movilidad;CSU N2;ASIGNACION;0;Cerrada
+298;Almudena Martín Cordero;101198;I200922_000136 cambio de carpeta usuario por cambi...;CSU N2;ASIGNACION;0;Cerrada
+298;Almudena Martín Cordero;101383;I200922_000194 error al entrar en pagina SPEC;CSU N2;ASIGNACION;0;Cerrada
+298;Almudena Martín Cordero;101388;S200923_000026 estudio de creacion unidad;CSU N2;ASIGNACION;0;Cerrada
+298;Almudena Martín Cordero;101440;S200923_000080 mover OU;CSU N2;ASIGNACION;0;Cerrada
+298;Almudena Martín Cordero;101628;S200924_000024 error en movilidad;CSU N2;ASIGNACION;0;Cerrada
+239;Jesus Galende Calzada;101339;[98944] [Plan de actuación] Datos Pendientes Trans...;CSU N2;ASIGNACIONT;0;Cerrada
+239;Jesus Galende Calzada;101443;[98967][Informe de situación y alternativas] Alter...;CSU N2;ASIGNACIONT;0;Cerrada
+239;Jesus Galende Calzada;101697;[98944] [Plan de actuación] Fase 3 - Eliminar carp...;CSU N2;ASIGNACIONT;0;Cerrada
+239;Jesus Galende Calzada;101699;[98944] Plan de actuación: Fase 4 - Recrear carpet...;CSU N2;ASIGNACIONT;0;Proceso
+240;Alberto Lorido Ramirez;100958;Alerta Warning PRTG Espacio en servidor vmOSXG.dgt...;CSU N2;ASIGNACIONT;0;Cerrada
+240;Alberto Lorido Ramirez;101001;Caída de conectividad con DGT19EXGUA (192.168.204....;Redes de Comunicaciones;ASIGNACIONT;0;Cerrada
+240;Alberto Lorido Ramirez;101068;Gestión alertas PRTG y Buzón N2;CSU N2;ASIGNACIONT;0;Proceso
+240;Alberto Lorido Ramirez;101146;Sin conectividad con DGT94ALC11 (10.50.94.132) [RM...;Redes de Comunicaciones;ASIGNACIONT;0;Cerrada
+240;Alberto Lorido Ramirez;101354;Pérdida de Comunicaciones en JPT Granada;Redes de Comunicaciones;ASIGNACIONT;0;Cerrada
+240;Alberto Lorido Ramirez;101426;The interface is disconnected - JPT VIGO;Redes de Comunicaciones;ASIGNACIONT;0;Cerrada
+240;Alberto Lorido Ramirez;101542;Alerta de 95% espacio ocupado - Carpeta Informatic...;CSU N2;ASIGNACIONT;0;Cerrada
+243;Sergio Moron Romero;101170;[Vulnerabilidad Zerologon] Análisis, piloto e inst...;CSU N2;ASIGNACIONT;0;Proceso
+243;Sergio Moron Romero;101387;Apoyo N0;CSU N2;ASIGNACIONT;0;Cerrada
+243;Sergio Moron Romero;101676;Modificación configuración Jefatura Local de Ceuta;CSU N2;ASIGNACIONT;0;En espera
+243;Sergio Moron Romero;101680;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACIONT;0;Cerrada
+243;Sergio Moron Romero;101684;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACIONT;0;Cerrada
+243;Sergio Moron Romero;101686;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACIONT;0;Cerrada
+243;Sergio Moron Romero;101688;Modificación configuración Jefatura Provincial de ...;CSU N2;ASIGNACIONT;0;Cerrada
+245;Ruben Diez Romero;101079;Consulta puertos abiertos entre Servidores;Seguridad Perimetral;ASIGNACIONT;0;Cerrada
+245;Ruben Diez Romero;101325;Puesta en marcha carpeta "Gratificaciones" DGTDFS0...;Operaciones SSOO;ASIGNACIONT;0;Cerrada
+245;Ruben Diez Romero;101349;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;ASIGNACIONT;0;Proceso
+245;Ruben Diez Romero;101351;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;ASIGNACIONT;0;Proceso
+245;Ruben Diez Romero;101395;Backup "Recopilación de permisos de carpetas DFS";Operaciones SSOO;ASIGNACIONT;0;Cerrada
+245;Ruben Diez Romero;101577;Reoraganización pertenencias WSUS y CENTAURO;CSU N2;ASIGNACIONT;0;Proceso
+256;Edison Javier Yanez Quinatoa;101126;[100114] Crear paquete BMC BarCode;CSU N2;ASIGNACIONT;0;Proceso
+272;Daniel Criado Redondo;101573;[100999]Cambio de dhcp en las aulas de examenes co...;CSU N2;ASIGNACIONT;0;Proceso
+298;Edinson Lopez Saldarriaga;101065;error adobe listados de cierre de caja en indi7;CSU N2;ASIGNACIONT;0;Cerrada
+298;Edinson Lopez Saldarriaga;101124;Alerta Quota 95% disco datos servidor Vizcaya;CSU N2;ASIGNACIONT;0;Cerrada
+298;Edinson Lopez Saldarriaga;101139;Gestión alertas PRTG y Buzón N2;CSU N2;ASIGNACIONT;0;En espera
+239;Jesus Galende Calzada;1552;[ARQUITECTURA] Reorganización de DFS de Servicios ...;CSU N2;TIEMPO;0;En espera
+239;Jesus Galende Calzada;98950;[98944] Plan de actuación;CSU N2;TIEMPO;0;Proceso
+239;Jesus Galende Calzada;101079;Consulta puertos abiertos entre Servidores;Seguridad Perimetral;TIEMPO;0;Cerrada
+239;Jesus Galende Calzada;101339;[98944] [Plan de actuación] Datos Pendientes Trans...;CSU N2;TIEMPO;0;Cerrada
+239;Jesus Galende Calzada;101443;[98967][Informe de situación y alternativas] Alter...;CSU N2;TIEMPO;0;Cerrada
+239;Jesus Galende Calzada;101697;[98944] [Plan de actuación] Fase 3 - Eliminar carp...;CSU N2;TIEMPO;0;Cerrada
+239;Jesus Galende Calzada;101699;[98944] Plan de actuación: Fase 4 - Recrear carpet...;CSU N2;TIEMPO;0;Proceso
+240;Alberto Lorido Ramirez;1552;[ARQUITECTURA] Reorganización de DFS de Servicios ...;CSU N2;TIEMPO;0;En espera
+240;Alberto Lorido Ramirez;96991;I200730_000250 Reserva IP HOST TLP;CSU N2;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;98967;Informe de situación y alternativas;CSU N2;TIEMPO;0;Proceso
+240;Alberto Lorido Ramirez;99795;I200910_000154 Restaurar carpeta de Datos Toledo;CSU N2;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;100462;[1552][Reorganización de DFS en Servicios Centrale...;CSU N2;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;100958;Alerta Warning PRTG Espacio en servidor vmOSXG.dgt...;CSU N2;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;100975;SO_FILESYSTEM_DISCO_E_REAL;CSU N2;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;101068;Gestión alertas PRTG y Buzón N2;CSU N2;TIEMPO;0;Proceso
+240;Alberto Lorido Ramirez;101107;SO_FILESYSTEM_DISCO_E_REAL;CSU N2;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;101426;The interface is disconnected - JPT VIGO;Redes de Comunicaciones;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;101542;Alerta de 95% espacio ocupado - Carpeta Informatic...;CSU N2;TIEMPO;0;Cerrada
+240;Alberto Lorido Ramirez;101586;I200923_000286    Impresora RED;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;68302;Adaptación de aulas de examen previa al apagado de...;CSU N2;TIEMPO;0;Pendiente Usuario
+243;Sergio Moron Romero;96606;[#96197][revisión discos duros]Driver version is o...;CSU N2;TIEMPO;0;Proceso
+243;Sergio Moron Romero;99679;[98277]Incidencia OMSA en servidores Dell (parche ...;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;100371;Modificación de permisos en carpetas (Las Palmas);CSU N2;TIEMPO;0;Pendiente Usuario
+243;Sergio Moron Romero;100661;I200917_000179 firewall;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;100703;Cadena certificados - Despliegue resto de jefatura...;CSU N2;TIEMPO;0;Proceso
+243;Sergio Moron Romero;100727;Cadena certificados - Despliegue en SSCC;CSU N2;TIEMPO;0;Proceso
+243;Sergio Moron Romero;100810;S200918_000016 ACCESO A CARPETAS VALENCIA;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;100834;I200918_000106 problemas con permisos en varios eq...;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;100907;ALERTA NAGIOS SO_FILESYSTEM;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;100933;Centro de gestión no accede al equipo;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;101170;[Vulnerabilidad Zerologon] Análisis, piloto e inst...;CSU N2;TIEMPO;0;Proceso
+243;Sergio Moron Romero;101387;Apoyo N0;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;101676;Modificación configuración Jefatura Local de Ceuta;CSU N2;TIEMPO;0;En espera
+243;Sergio Moron Romero;101680;Modificación configuración Jefatura Provincial de ...;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;101684;Modificación configuración Jefatura Provincial de ...;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;101686;Modificación configuración Jefatura Provincial de ...;CSU N2;TIEMPO;0;Cerrada
+243;Sergio Moron Romero;101688;Modificación configuración Jefatura Provincial de ...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;1552;[ARQUITECTURA] Reorganización de DFS de Servicios ...;CSU N2;TIEMPO;0;En espera
+245;Ruben Diez Romero;68566;Error en los discos Virtuales (RAID) de Malaga y S...;CSU N2;TIEMPO;0;Pendiente Ventana Mantenimiento
+245;Ruben Diez Romero;69750;Servidores JPT: reasignación de espacio en discos ...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;72657;[95720]Recopilación de permisos de carpetas compar...;CSU N2;TIEMPO;0;Pendiente Usuario
+245;Ruben Diez Romero;78890;61  Aplicación de actualizaciones en PC de SSPP y ...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;79527;Servidor de impresión. Clusterización;CSU N2;TIEMPO;0;Pendiente Asignación Recursos
+245;Ruben Diez Romero;82151;Movilidad: altas masivas y configuración para evit...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;89713;Actualizaciones Windows Seguridad y Críticas 2020;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;90518;Escaneado TrendMicro en puesto cliente 2020;CSU N2;TIEMPO;0;Cancelado
+245;Ruben Diez Romero;95098;[89713][Actualizaciones de JULIO/AGOSTO 2020];CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;95869;[95098][PCs SSPP y SSCC][CSU N2] Actualizaciones p...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;95871;[95098][PCs SSPP y SSCC][CSU N2] Actualizaciones p...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;95874;[95098][PCs SSPP y SSCC][CSU N2] Actualizaciones p...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;95875;[95098][PCs SSPP y SSCC][CSU N2] Actualizaciones p...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;96197;Revisión discos duros servidores, alertas de hw;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;96600;[#96197][revisión discos duros] Firmware version i...;CSU N2;TIEMPO;0;En espera
+245;Ruben Diez Romero;96603;[#96197][revisión discos duros]Driver version is o...;CSU N2;TIEMPO;0;En espera
+245;Ruben Diez Romero;96608;[#96197][revisión discos duros]Driver version is o...;CSU N2;TIEMPO;0;En espera
+245;Ruben Diez Romero;96626;[#96197][revisión discos duros]The watchdog timer ...;CSU N2;TIEMPO;0;En espera
+245;Ruben Diez Romero;96739;I200810_000027 no se abren carpetas (explorador de...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;97880;HABILITAR FIREWALL DE WINDOWS I200821_000100;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;97926;[79700]Solucionar equipos que no se conectan corre...;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;98944;SSCCDFS1 error BBDD degradada;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;98967;Informe de situación y alternativas;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;98968;[98103]Configuración de alertas destinadas a csu.n...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;99228;I200807_000139 problemas con captcha;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;99307;Operativa de backup en servidores JJPP: Impresoras...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;99619;[#96197][revisión discos duros] [CSU N2] Bateria C...;CSU N1;TIEMPO;0;Pendiente Asignación Recursos
+245;Ruben Diez Romero;99679;[98277]Incidencia OMSA en servidores Dell (parche ...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;100114;Software lector de códigos QR en pantalla;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;100142;I200914_000266 pdf;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;100146;Centos para Qmatic;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;100270;Instalación cadena certificados trafico_es;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;100462;[1552][Reorganización de DFS en Servicios Centrale...;CSU N2;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;100798;[98944] [SSCCDFS1 error BBDD degradada] Recreación...;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;100869;I200918_000222 Impresora RED;CSU N1;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;101126;[100114] Crear paquete BMC BarCode;CSU N2;TIEMPO;0;Proceso
+245;Ruben Diez Romero;101256;S200922_000067 remaquetar servidor;CSU N1;TIEMPO;0;Cerrada
+245;Ruben Diez Romero;101577;Reoraganización pertenencias WSUS y CENTAURO;CSU N2;TIEMPO;0;Proceso
+256;Edison Javier Yanez Quinatoa;91886;I200625_000242 Cola de impresion TLP;CSU N2;TIEMPO;0;Cerrada
+256;Edison Javier Yanez Quinatoa;93562;Incidencia documentos Word con Trendmicro;CSU N2;TIEMPO;0;Cerrada
+256;Edison Javier Yanez Quinatoa;97418;[86004][Encriptado][CSU N2]Despliegue GPO BitLocke...;CSU N2;TIEMPO;0;Pendiente Usuario
+256;Edison Javier Yanez Quinatoa;100114;Software lector de códigos QR en pantalla;CSU N2;TIEMPO;0;Proceso
+256;Edison Javier Yanez Quinatoa;100462;[1552][Reorganización de DFS en Servicios Centrale...;CSU N2;TIEMPO;0;Cerrada
+256;Edison Javier Yanez Quinatoa;100875;8.[86001] Estandarizar Adobe READER DC, desinstala...;CSU N2;TIEMPO;0;Proceso
+256;Edison Javier Yanez Quinatoa;100877;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;TIEMPO;0;Proceso
+256;Edison Javier Yanez Quinatoa;101016;I200921_000142 Colas de Impresion;CSU N2;TIEMPO;0;Cerrada
+256;Edison Javier Yanez Quinatoa;101126;[100114] Crear paquete BMC BarCode;CSU N2;TIEMPO;0;Proceso
+256;Edison Javier Yanez Quinatoa;101349;10.[86001][Vulnerabilidad Adobe][CSU N2] Estandari...;CSU N2;TIEMPO;0;Proceso
+256;Edison Javier Yanez Quinatoa;101443;[98967][Informe de situación y alternativas] Alter...;CSU N2;TIEMPO;0;Cerrada
+272;Daniel Criado Redondo;72657;[95720]Recopilación de permisos de carpetas compar...;CSU N2;TIEMPO;0;Pendiente Usuario
+272;Daniel Criado Redondo;86001;[86001][Vulnerabilidad Adobe][CSU N2];CSU N2;TIEMPO;0;Proceso
+272;Daniel Criado Redondo;96626;[#96197][revisión discos duros]The watchdog timer ...;CSU N2;TIEMPO;0;En espera
+272;Daniel Criado Redondo;98277;Incidencia OMSA en servidores Dell (parche que afe...;CSU N2;TIEMPO;0;Proceso
+272;Daniel Criado Redondo;98968;[98103]Configuración de alertas destinadas a csu.n...;CSU N2;TIEMPO;0;Cerrada
+272;Daniel Criado Redondo;99679;[98277]Incidencia OMSA en servidores Dell (parche ...;CSU N2;TIEMPO;0;Cerrada
+272;Daniel Criado Redondo;100258;[100114] Analisis aplicaciones;CSU N2;TIEMPO;0;Cerrada
+272;Daniel Criado Redondo;101079;Consulta puertos abiertos entre Servidores;Seguridad Perimetral;TIEMPO;0;Cerrada
+272;Daniel Criado Redondo;101305;[100114] Crear manual BarCode;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;86169;Mover equipos sin asignar en WSUS;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;99228;I200807_000139 problemas con captcha;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;100142;I200914_000266 pdf;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;100586;[98103][98967]Previsión llenado disco de Datos en ...;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;100611;I200916_000196 windows activacion;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;100653;Alerta Quota 95% disco datos servidor Baleares;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;100800;I200916_000256 - Problema GPO Impresoras;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;100802;Alerta PRTG Switch jefatura VIGO;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;100878;I200916_000251 Error complemento adobe IE para iND...;CSU N1;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101007;S200921_000031 - Acceso a unidad de red;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101016;I200921_000142 Colas de Impresion;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101059;S200921_000070 Capacidad V-DATOS;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101063;S200921_000071 Alta Movilidad;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101065;error adobe listados de cierre de caja en indi7;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101104;I200921_000064 perfiles;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101124;Alerta Quota 95% disco datos servidor Vizcaya;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101139;Gestión alertas PRTG y Buzón N2;CSU N2;TIEMPO;0;En espera
+298;Edinson Lopez Saldarriaga;101198;I200922_000136 cambio de carpeta usuario por cambi...;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101247;I200916_000196 windows activacion;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101274;CAMBIAR IP ASOCIADA EN EQUIPO S200922_000075;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101289;S200922_000083 IP en TLP;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101294;ACCESO A  RECURSO DE RED S200922_000078;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101383;I200922_000194 error al entrar en pagina SPEC;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101388;S200923_000026 estudio de creacion unidad;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101426;The interface is disconnected - JPT VIGO;Redes de Comunicaciones;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101440;S200923_000080 mover OU;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101460;I200922_000177 Reserva IP equipo;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101520;ACCESO DIRECTORIO CALIDAD S200922_000078;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101582;S200924_000011 VPN;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101584;I200923_000289  Impresora RED;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101586;I200923_000286    Impresora RED;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101601;I200924_000263 No escriben en C:;CSU N1;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101606;I200924_000283 espacio unidad red VVIP;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101627;I200923_000265 - Error Inditraf;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101628;S200924_000024 error en movilidad;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101728;I200925_000001 Accura;CSU N2;TIEMPO;0;Cerrada
+298;Edinson Lopez Saldarriaga;101789;S200925_000085 -  BAJA DE ONSITE´s SUSTITUTOS;CSU N2;TIEMPO;0;Cerrada
+<TIEMPO>
+239;1552;120
+239;98950;840
+239;101079;135
+239;101339;270
+239;101443;370
+239;101697;15
+239;101699;180
+240;1552;175
+240;96991;40
+240;98967;125
+240;99795;300
+240;100462;50
+240;100958;35
+240;100975;390
+240;101068;1065
+240;101107;50
+240;101426;160
+240;101542;140
+240;101586;30
+243;68302;125
+243;96606;60
+243;99679;196
+243;100371;60
+243;100661;20
+243;100703;760
+243;100727;10
+243;100810;10
+243;100834;20
+243;100907;15
+243;100933;10
+243;101170;920
+243;101387;30
+243;101676;10
+243;101680;10
+243;101684;15
+243;101686;40
+243;101688;10
+245;1552;5
+245;68566;5
+245;69750;10
+245;72657;5
+245;78890;10
+245;79527;5
+245;82151;5
+245;89713;5
+245;90518;10
+245;95098;5
+245;95869;30
+245;95871;25
+245;95874;5
+245;95875;30
+245;96197;10
+245;96600;5
+245;96603;5
+245;96608;5
+245;96626;5
+245;96739;5
+245;97880;5
+245;97926;5
+245;98944;5
+245;98967;5
+245;98968;5
+245;99228;5
+245;99307;10
+245;99619;5
+245;99679;5
+245;100114;5
+245;100142;5
+245;100146;370
+245;100270;5
+245;100462;4
+245;100798;5
+245;100869;5
+245;101126;5
+245;101256;10
+245;101577;180
+256;91886;7
+256;93562;5
+256;97418;10
+256;100114;5
+256;100462;75
+256;100875;795
+256;100877;180
+256;101016;22
+256;101126;405
+256;101349;50
+256;101443;20
+272;72657;220
+272;83889;10
+272;86001;10
+272;96626;5
+272;98277;75
+272;98968;90
+272;99679;340
+272;100258;120
+272;101079;55
+272;101305;10
+298;86169;30
+298;99228;100
+298;100142;90
+298;100586;5
+298;100611;135
+298;100653;40
+298;100800;50
+298;100802;160
+298;100878;20
+298;101007;60
+298;101016;20
+298;101059;20
+298;101063;100
+298;101065;80
+298;101104;20
+298;101124;90
+298;101139;570
+298;101198;70
+298;101247;90
+298;101274;30
+298;101289;100
+298;101294;20
+298;101383;110
+298;101388;50
+298;101426;10
+298;101440;15
+298;101460;50
+298;101520;30
+298;101582;15
+298;101584;90
+298;101586;90
+298;101601;10
+298;101606;70
+298;101627;30
+298;101628;60
+298;101728;30
+298;101734;20
+298;101789;20
