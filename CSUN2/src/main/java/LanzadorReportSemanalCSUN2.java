@@ -62,8 +62,8 @@ public class LanzadorReportSemanalCSUN2{
 			
 			//Generador de email
 			try{
-				generaEML.setDe("fjbecerra.altran@dgt.es");
-				generaEML.setPara("dmerino.altran@dgt.es");
+				generaEML.setDe("fbecerra.altran@d.es");
+				generaEML.setPara("merino.altran@d.es");
 				generaEML.setAsunto("Prueba email automatico");
 				generaEML.setTextoMensaje("Mensaje del email");
 				
